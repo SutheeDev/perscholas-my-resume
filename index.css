@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "roboto";
+  padding: 2em;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+p,
+li {
+  font-weight: 300;
+}
+
+ul {
+  margin-left: 1.5em;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link {
+  margin-right: 10px;
+}
+
+.section-title {
+  margin-bottom: 10px;
+}
+
+.experience P {
+  margin-bottom: 10px;
+}
